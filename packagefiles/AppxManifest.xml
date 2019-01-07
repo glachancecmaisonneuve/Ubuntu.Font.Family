@@ -4,7 +4,7 @@
     xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" 
     xmlns:uap4="http://schemas.microsoft.com/appx/manifest/uap/windows10/4" IgnorableNamespaces="uap uap4" 
     xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-    <Identity Name="3058GuillaumeLachance.UbuntuFont" ProcessorArchitecture="neutral" Version="0.8.3.0" Publisher="CN=DB77F647-6FB5-4950-A987-DE0A77B09539" />
+    <Identity Name="Ubuntu.Font.Family" ProcessorArchitecture="neutral" Version="0.8.3.0" Publisher="CN=Canonical Group Limited, L=London, C=UK" />
     <Properties>
         <DisplayName>Ubuntu Font Family</DisplayName>
         <PublisherDisplayName>Guillaume Lachance</PublisherDisplayName>
