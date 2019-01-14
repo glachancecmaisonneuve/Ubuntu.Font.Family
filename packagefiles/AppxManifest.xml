@@ -22,8 +22,6 @@
             <Extensions>
                 <uap4:Extension Category="windows.sharedFonts">
                     <uap4:SharedFonts>
-                        <uap4:Font File="Ubuntu-L.ttf" />
-                        <uap4:Font File="Ubuntu-LI.ttf" />
                         <uap4:Font File="Ubuntu-M.ttf" />
                         <uap4:Font File="Ubuntu-MI.ttf" />
                         <uap4:Font File="UbuntuMono-B.ttf" />
